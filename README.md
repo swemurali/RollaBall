@@ -1,7 +1,7 @@
 # RollaBall
 
 ## Aim:
-
+To develop a 3D program for roll a ball in unity
 ## Algorithm:
 
 1. File -> Scene -> Select the scene -> Save as-> New folder(Scenes)-> File name (MiniGame)
